@@ -7,4 +7,4 @@ Systems analysis and development student at FATEC and software developer at Agen
 
   
 
-![Rayane's github stats](https://github-readme-stats.vercel.app/api?username=DaviGaldeano&count_private=true&theme=dracula)
+![Rayane's github stats](https://github-readme-stats.vercel.app/api?username=DaviGaldeano&count_private=true&theme=dark)
