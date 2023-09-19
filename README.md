@@ -10,7 +10,7 @@
 
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/davi-galdeano-475843236/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-galdeano-475843236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a>
 </p>
   
